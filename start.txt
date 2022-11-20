@@ -1,5 +1,0 @@
-name: vasanth babu j
-class: cse-d
-department: computer science and engineering
-roll no: 19csr216
-subject: Github
